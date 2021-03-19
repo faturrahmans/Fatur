@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head>
+    <title>Coba Git</title>
+</head>
+
+<body>
+    <h1>Biodata Mahasiswa</h1>
+    <ol>
+        <li>Kelas A</li>
+    </ol>
+</body>
+</html>
