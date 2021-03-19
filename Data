@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head>
+    <title>Coba Git</title>
+</head>
+
+<body>
+    <h1>Biodata Mahasiswa</h1>
+    <ol>
+        <li>Muhammad Faturrahman Saputra</li>
+        <li>200205602017</li>
+        <li>Kelas A</li>
+    </ol>
+</body>
+</html>
